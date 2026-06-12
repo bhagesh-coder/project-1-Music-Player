@@ -4,12 +4,19 @@ A responsive Spotify-inspired music player built using HTML, CSS, and JavaScript
 Features
 
 Dynamic song loading from local directories
-,Album-based music organization
-,Play, pause, next, and previous controls
-,Interactive seek bar and volume control
-,Responsive user interface
-,Active song and album highlighting
-,Album metadata management using JSON
+
+-Album-based music organization
+
+-Play, pause, next, and previous controls
+
+-Interactive seek bar and volume control
+
+-Responsive user interface
+
+-Active song and album highlighting
+
+-Album metadata management using JSON
+
 
 Technologies Used
 
